@@ -1,3 +1,9 @@
+UPDATE (20211208) - I am no longer a Technical Trainer with AWS, thus the live webpage has been taken down.
+     I am changing career paths to full-stack developer, so during my learning, I expect to be using the domain
+     for various webpages over the next several months. Once I've finished my initial learning and have secured
+     a job, I plan to update this domain with an actively-maintained, robust, relevant-to-me website.
+
+
 # greghaney_dot_net
 Website for greghaney.net - AWS Technical Trainer site Dec 2020
 This repo contains the CSS, HTML, and JS files for the 'greghaney.net' webpage.
